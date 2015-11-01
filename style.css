@@ -3,5 +3,13 @@ background-image: url(http://orig05.deviantart.net/37d2/f/2006/335/2/3/uber_atom
 background-attachment: fixed;
 background-size: 100%;
 font-size: 2em;
-color: blue;
+color: #e00a0a;
+}
+
+h1 {
+text-align: center;
+text-decoration: underline;}
+
+ul {
+  text-align: center;
 }
