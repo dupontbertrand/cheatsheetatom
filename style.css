@@ -3,7 +3,7 @@ background-image: url(http://img1.mxstatic.com/wallpapers/1bc9ae1a8e79ffec371aa4
 background-attachment: fixed;
 background-size: 100%;
 font-size: 2em;
-color: white;
+color: black;
 }
 
 h1 {
@@ -25,7 +25,7 @@ ul {
 
 
 
-  position: absolute;
+  position: center;
 padding: 10px;
   border: solid  black;
 
