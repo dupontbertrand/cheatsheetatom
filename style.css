@@ -13,3 +13,22 @@ text-decoration: underline;}
 ul {
   text-align: center;
 }
+
+
+#container
+
+{
+
+  background-color: silver;
+
+  background-size: cover;
+
+
+
+  position: absolute;
+padding: 10px;
+  border: solid  black;
+
+  border-radius: 45px ;
+  border-width: 5px;
+}
