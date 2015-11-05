@@ -4,6 +4,7 @@ background-attachment: fixed;
 background-size: 100%;
 font-size: 2em;
 color: black;
+font-family: Helvetica;
 }
 
 h1 {
@@ -26,7 +27,7 @@ ul {
 
   background-size: cover;
 
-margin-left: 630px;
+margin-left: 420px;
 
   position: absolute;
 padding: 10px;
@@ -35,3 +36,55 @@ padding: 10px;
   border-radius: 45px ;
   border-width: 5px;
 }
+
+
+
+
+
+/*Mobile-friendly*/
+
+
+    @media (max-width: 1024px) {
+      
+      body {
+      background-color:black;
+      background-attachment: fixed;
+      background-size: 100%;
+      font-size: 2em;
+      color: black;
+      font-family: Helvetica;
+      }
+
+      h1 {
+      text-align: center;
+      text-decoration: underline;
+      color : white;
+
+      }
+
+      ul {
+        text-align: center;
+      }
+
+
+      #container
+
+      {
+
+        background-color: #bf741b;
+
+        background-size: cover;
+
+      margin-left: 420px;
+
+        position: absolute;
+      padding: 10px;
+        border: solid  black;
+
+        border-radius: 45px ;
+        border-width: 5px;
+      }
+
+
+
+      }
