@@ -4,6 +4,7 @@ background-image: url("http://mev4you.com/wp-content/uploads/2014/07/white-blur-
 font-size: 2em;
 color: black;
 font-family: Helvetica;
+background-size: cover;
 }
 
 h1 {
@@ -22,9 +23,7 @@ ul {
 
 {
   background-color: rgb(25, 93, 148);
-  background-size: cover;
   margin-left: 470px;
-  position: absolute;
   padding: 10px;
   border: solid  black;
   border-radius: 45px ;
