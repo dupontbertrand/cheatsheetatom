@@ -19,10 +19,11 @@ h1 {
 strong {
   font-weight: bold;
 }
-span {
+code {
   background-color: rgb(44, 122, 179);
   border-radius: 10px;
   border-width: 5px;
+  padding: 0.2em;
 }
 
 /*Mobile-friendly*/
@@ -33,7 +34,6 @@ span {
     background-attachment: fixed;
     background-size: 100%;
     color: lightgrey;
-    font-size: 2.8em;
     font-weight: bold;
   }
   li {
@@ -49,9 +49,12 @@ span {
   strong {
     font-weight: bold;
   }
-  span {
+  code {
+    font-size: 2em;
     background-color: rgb(44, 122, 179);
     border-radius: 10px;
     border-width: 5px;
+    padding: 0.2em;
+    line-height: 2em;
   }
 }
