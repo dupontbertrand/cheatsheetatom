@@ -38,6 +38,7 @@ code {
   }
   li {
     margin-top: 10px;
+    font-size: 1.3
   }
   h1 {
     font-size: 3em;
@@ -50,7 +51,7 @@ code {
     font-weight: bold;
   }
   code {
-    font-size: 2em;
+    font-size: 1.8em;
     background-color: rgb(44, 122, 179);
     border-radius: 10px;
     border-width: 5px;
