@@ -1,8 +1,6 @@
-
 header a:visited {
   color: white;
 }
-
 body {
   background-color: black;
   background-attachment: fixed;
@@ -34,12 +32,9 @@ code {
 /*Mobile-friendly*/
 
 @media (max-width: 1024px) {
-
-
   header a:visited {
     color: white;
   }
-
   body {
     background-color: black;
     background-attachment: fixed;
