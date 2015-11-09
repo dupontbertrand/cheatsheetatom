@@ -1,3 +1,8 @@
+
+header a:visited {
+  color: white;
+}
+
 body {
   background-color: black;
   background-attachment: fixed;
@@ -9,8 +14,8 @@ body {
 li {
   margin-top: 10px;
 }
-h1 {
-  font-size: 3em;
+header {
+  font-size: 2em;
   font-weight: bold;
   text-align: center;
   color: white;
@@ -29,6 +34,12 @@ code {
 /*Mobile-friendly*/
 
 @media (max-width: 1024px) {
+
+
+  header a:visited {
+    color: white;
+  }
+
   body {
     background-color: black;
     background-attachment: fixed;
@@ -44,7 +55,7 @@ code {
     margin-left: -1.6em;
     font-size: 0.8em;
   }
-  h1 {
+  header {
     font-size: 1.4em;
     font-weight: bold;
     text-align: center;
